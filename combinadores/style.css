@@ -1,0 +1,23 @@
+/*
+combinadores: qual tipo de relação entre 2 seletores
+
+1. Combinador descendente (espaço)
+2. Combinador filho(>)
+3. Combinador irmão adjacente(+)
+4. Combinador irmão em geral(~)
+
+[SELETOR] [COMBINADOR] [SELETOR]
+*/
+
+.fundo-verde li{
+    background: lightgreen;
+}
+.fundo-azul li{
+    background: lightblue;
+}
+li{
+    color: red;
+}
+.fundo-verde #sublista-1 li{
+    color: black;
+}
