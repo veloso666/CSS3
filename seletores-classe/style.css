@@ -1,0 +1,19 @@
+/*
+SELETORES: definem em quais elementos nós vamos aplicar o CSS
+1: seletor de tag/tipo
+2: seletor de id
+3: seletor de classes
+4: seletor universal
+5: seletor de atributo
+*/
+
+/*
+seletor de tag/tipo
+*/
+.seletores-mais-comuns{
+    background: purple;
+    color: red;
+}
+.texto-maiusculo{
+    text-transform: uppercase;
+}
