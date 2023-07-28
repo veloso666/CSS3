@@ -1,0 +1,31 @@
+/*
+SELETORES: definem em quais elementos nós vamos aplicar o CSS
+1: seletor de tag/tipo
+2: seletor de id
+3: seletor de classes
+4: seletor universal
+5: seletor de atributo
+*/
+
+/*
+seletor de tag/tipo
+*/
+h1{
+    background: darkblue;
+    color: lightgreen;
+}
+div{
+    background: lightblue;
+    color: darkblue ;
+}
+li{
+    background: lightgreen;
+}
+#texto-boas-vindas{
+    background: red;
+    color: white;
+}
+#explicacao-seletores{
+    background: whitesmoke;
+    color: rebeccapurple;
+}
