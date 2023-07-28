@@ -1,0 +1,37 @@
+/*
+SELETORES: definem em quais elementos nós vamos aplicar o CSS
+1: seletor de tag/tipo
+2: seletor de id
+3: seletor de classes
+4: seletor universal
+5: seletor de atributo
+*/
+/* 
+/* <a> elementos com um atributo de título  */
+
+a[title] {
+    color: purple;
+  }
+  
+  /* <a> elementos combinando com um href "https://example.org" */
+  a[href="https://example.org"] {
+    color: green;
+  }
+  
+  /* <a> elementos com um href contendo "example" */
+  a[href*="example"] {
+    font-size: 2em;
+  }
+  
+  /* <a> elementos com href terminando em ".org" */
+  a[href$=".org"] {
+    font-style: italic;
+  }
+*/
+/*
+seletor de tag/tipo
+*/
+/*[atributo=value]*/
+[title ~= "Streaming"]{
+    background: red;
+}
