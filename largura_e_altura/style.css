@@ -1,0 +1,9 @@
+#div-01{
+    background: lightgreen;
+    height: 200px;
+    width: 200px;
+}
+#div-02{
+background: lightblue;
+    height: inherit;
+}
