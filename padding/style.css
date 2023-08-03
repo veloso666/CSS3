@@ -1,0 +1,11 @@
+div {
+    width: 300px;
+    color: white;
+}
+#elemento-01{
+    background: orange;
+    padding: 20px 40px 30px 60px;
+}
+#elemento-02{
+    background: purple;
+} 
