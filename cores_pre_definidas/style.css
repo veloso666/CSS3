@@ -1,0 +1,5 @@
+
+#currentcolor{
+color: palevioletred;
+border: 2px solid currentColor;
+}
