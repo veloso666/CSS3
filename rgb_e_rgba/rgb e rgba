@@ -1,0 +1,10 @@
+#currentcolor{
+    color: palevioletred;
+    border: 2px solid currentColor;
+}
+#rgb{
+    color: rgb(165, 0, 255);
+}
+#rgba{
+    color: rgba(255, 0, 0, 0.8);
+}

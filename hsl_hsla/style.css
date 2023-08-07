@@ -9,3 +9,13 @@
 #rgba{
     color: rgba(255, 0, 0, 0.8);
 }
+#hex{
+   /*color: #ff38355f;*/ 
+    border: 2px solid #ff9238ff;
+}
+#hsl{
+    color: hsl(180, 100%, 50%);
+}
+#hsla{
+    color: hsla(170, 100%, 50%, 0.6);
+}
