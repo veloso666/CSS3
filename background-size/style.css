@@ -1,0 +1,27 @@
+div{
+    margin-bottom: 20px;
+}
+
+.exemplo{
+    width: 300px;
+    height: 300px;
+    background-image: url('https://www.codeproject.com/KB/GDI-plus/ImageProcessing2/img.jpg');
+}
+#exemplo1{
+    background-size: auto;
+}
+#exemplo2{
+    background-size: cover;
+}
+#exemplo3{
+    background-size: contain;
+}
+#exemplo4{
+    background-size: 300px;
+}
+#exemplo5{
+    background-size: 200px 300px;
+}
+#exemplo6{
+    background-size: contain, cover ;
+}

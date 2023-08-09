@@ -1,0 +1,35 @@
+div{
+    margin-bottom: 20px;
+}
+
+.exemplo{
+    width: 300px;
+    height: 300px;
+    background-image: url('https://www.codeproject.com/KB/GDI-plus/ImageProcessing2/img.jpg');
+    background-size: 120px;
+}
+
+#exemplo1{
+    background-repeat:repeat ;
+    border: 1px red solid;
+}
+#exemplo2{
+    background-repeat:repeat-x ;
+    border: 1px red solid;
+}
+#exemplo3{
+    background-repeat:repeat-y ;
+    border: 1px red solid;
+}
+#exemplo4{
+    background-repeat:space ;
+    border: 1px red solid;
+}
+#exemplo5{
+    background-repeat:round ;
+    border: 1px red solid;
+}
+#exemplo6{
+    background-repeat:no-repeat ;
+    border: 1px red solid;
+}
